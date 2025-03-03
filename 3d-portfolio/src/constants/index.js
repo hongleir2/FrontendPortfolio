@@ -20,7 +20,7 @@ import {
   tesla,
   shopify,
   carrent,
-  jobit,
+  focusTomato,
   tripguide,
   threejs,
 } from '../assets';
@@ -221,7 +221,7 @@ const projects = [
   {
     name: 'FocusTomato',
     description:
-      'A sleek Pomodoro timer application designed to boost productivity through timed work sessions and breaks. Features customizable focus and break durations, task tracking, and a visually immersive interface to help users maintain concentration and achieve their goals.',
+      'A sleek Pomodoro timer, featuring a customizable timer, background sounds, and immersive images to enhance focus and workflow.',
     tags: [
       {
         name: 'react',

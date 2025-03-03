@@ -27,8 +27,8 @@ import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
 
 import carrent from './carrent.png';
-import jobit from './jobit.png';
 import tripguide from './tripguide.png';
+import focusTomato from './pomodoro-timer.webp';
 
 export {
   logo,
@@ -57,6 +57,6 @@ export {
   starbucks,
   tesla,
   carrent,
-  jobit,
+  focusTomato,
   tripguide,
 };
