@@ -29,6 +29,7 @@ const PerformanceAnalysis = () => {
         const datasetList = [
           "M4-Pro-24G-RAM-4h-Recording.csv",
           "Intel-I7-4h-Recording.csv",
+          "M4-16G-RAM-4h-Recording.csv",
         ];
         setDatasets(datasetList);
         setIsLoadingDatasets(false);
